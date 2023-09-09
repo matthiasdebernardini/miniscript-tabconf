@@ -1,7 +1,6 @@
 # miniscript-tabconf
-miniscript-tabconf
-
-pyo3.rs
+[miniscript-tabconf
+](https://docs.google.com/presentation/d/1xRNbs7K4Nh6oRj6isHz6Ce37dx5-L7ih_zKqMBFkpFE/edit?usp=sharing)
 
 # Install Nix/Devenv
 
