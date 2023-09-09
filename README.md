@@ -3,7 +3,7 @@ miniscript-tabconf
 
 pyo3.rs
 
-# Deploy axum web api on ubuntu
+# Install Nix/Devenv
 
 - Installs Nix
   
